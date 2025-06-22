@@ -78,5 +78,6 @@ AI-Meal-Planner/
 Made with ❤️ by Samarth Shekhar
 GitHub
 https://github.com/Samarth-Shekhar 
-LinkedIn www.linkedin.com/in/samarth-shekhar-185ba311a
+LinkedIn 
+www.linkedin.com/in/samarth-shekhar-185ba311a
 ---

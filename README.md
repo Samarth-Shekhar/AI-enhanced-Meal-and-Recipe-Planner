@@ -8,16 +8,16 @@ The **AI Meal Planner** is a smart dietary planning application that creates per
 
 ## 📸 Demo
 
-### 🏠 Home Page
+### 🏠 Home Page  
 ![Home](assets/screenshots/ai_meal_1.png)
 
-### 🧠 Meal Suggestions
+### 🧠 Meal Suggestions  
 ![Suggestions](assets/screenshots/ai_meal_2.png)
 
-### 📋 Generated Meal Plan
+### 📝 Generated Meal Plan  
 ![Plan](assets/screenshots/ai_meal_3.png)
 
-### 📄 PDF Export
+### 📄 PDF Export  
 ![PDF](assets/screenshots/ai_meal_4.png)
 
 ---

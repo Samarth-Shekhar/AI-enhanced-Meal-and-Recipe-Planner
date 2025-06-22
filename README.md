@@ -45,6 +45,7 @@ The **AI Meal Planner** is a smart dietary planning application that creates per
 ---
 
 ## 🚀 How to Run the App
+```
 Install dependencies
 
 pip install -r requirements.txt
@@ -58,10 +59,10 @@ Run the app
 
 Run the app
 streamlit run streamlit_meal_planner.py
----
 
+```
 ## 📁 Project Structure
-
+```
 AI-Meal-Planner/
 ├── data.py                 # Meal item data
 ├── knapsack.py             # Knapsack logic
@@ -72,9 +73,10 @@ AI-Meal-Planner/
 └── .streamlit/
     └── secrets.toml
 ---
-
+```
 ## 👨‍💻 Author
 Made with ❤️ by Samarth Shekhar
 GitHub
-https://github.com/Samarth-Shekhar • LinkedIn www.linkedin.com/in/samarth-shekhar-185ba311a
+https://github.com/Samarth-Shekhar 
+LinkedIn www.linkedin.com/in/samarth-shekhar-185ba311a
 ---

@@ -44,35 +44,45 @@ The **AI Meal Planner** is a smart dietary planning application that creates per
 
 ---
 
-2. Add your Groq API key
+## 🚀 How to Run the App
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your Groq API key
 Create a file .streamlit/secrets.toml and add:
 
 toml
 Copy
 Edit
 GROQ_API_KEY = "your_api_key"
-3. Run the app
+Run the app
+
 bash
 Copy
 Edit
 streamlit run streamlit_meal_planner.py
+---
 
-📁 Project Structure
+## 📁 Project Structure
 bash
 Copy
 Edit
 AI-Meal-Planner/
-│
-├── data.py                   # Meal item data
-├── knapsack.py               # Knapsack logic
-├── pdf_exporter.py           # PDF export functionality
+├── data.py                 # Meal item data
+├── knapsack.py             # Knapsack logic
+├── pdf_exporter.py         # PDF export functionality
 ├── streamlit_meal_planner.py # Main Streamlit app
 ├── requirements.txt
 ├── README.md
 └── .streamlit/
     └── secrets.toml
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 Made with ❤️ by Samarth Shekhar
-GitHub • LinkedIn
-
+GitHub
+https://github.com/Samarth-Shekhar • LinkedIn www.linkedin.com/in/samarth-shekhar-185ba311a
+---
